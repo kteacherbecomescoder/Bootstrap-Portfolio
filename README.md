@@ -26,7 +26,7 @@ the portfolio with a *mobile-responsive layout*.
 
 
 
-### Assignment Two Instructions - (No Bootstrap)
+### Assignment Two Instructions - (RESPONSIVE - No Bootstrap)
 
 * Repeat steps 1 and 2 from above.
 * Note: Be sure not to include any dot files (e.g. .git, .gitignore) from the `Basic-Portfolio` repo.
