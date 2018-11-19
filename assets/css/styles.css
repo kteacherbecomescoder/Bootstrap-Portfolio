@@ -164,15 +164,10 @@ main {
 }
 
 .submit-btn {
-  /* Box-model */
   padding: 15px 30px;
   font-size: 16px;
   font-weight: lighter;
-
-  /* Typography */
-  color: #fff;
-
-  /* Visual */
+  color: #ffffff
   background-color: #4aaaa5;
   border: 0;
 }
@@ -181,4 +176,3 @@ main {
   opacity: .7;
 }
 
-/* END CONTACT FORM PAGE */
